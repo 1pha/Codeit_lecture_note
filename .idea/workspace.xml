@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd9d389b-ac0d-4860-a87a-712ac3b81f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Study/DL_from_Scratch/multilayer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Codeit_lecture_note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Codeit_lecture_note.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/02_Numpy-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/03_Pandas-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/04_DataFrame_Indexing-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Numpy.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Pandas.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_DataFrame_Indexing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Big_DataFrame.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/07_Big_DataFrame.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Seaborn/Lecture_Note.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/09_Seaborn/Lecture_Note.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Seaborn/Quiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/09_Seaborn/Quiz.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_Statistical_Analysis/Lecture_Note_Statistical_Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10_Statistical_Analysis/Lecture_Note_Statistical_Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_Exploratory_Data_Analysis/Quiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_Exploratory_Data_Analysis/Quiz.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study/DL_from_Scratch/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Study/DL_from_Scratch/Untitled.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,51 +36,176 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08_VIsualizing_and_Graph/Quiz.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/1-grid-world/1-policy-iteration/policy_iteration.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+                  <folding>
+                    <element signature="e#24#37#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../Study/code_book_git/ch04/train_neuralnet.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                  <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../Study/DL_from_Scratch/multilayer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="187">
+                  <caret line="22" column="95" lean-forward="true" selection-start-line="22" selection-start-column="95" selection-end-line="22" selection-end-column="95" />
+                  <folding>
+                    <element signature="e#40#67#0" />
+                    <element signature="e#105#385#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../Study/code_book_git/common/functions.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="45" selection-start-line="45" selection-end-line="55" selection-end-column="75" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../Study/DL_from_Scratch/train_neuralnet.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../Study/DL_from_Scratch/multilayer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../Study/code_book_git/ch04/two_layer_net.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="493">
+                  <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Study" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="693" />
-    <option name="y" value="168" />
-    <option name="width" value="2454" />
-    <option name="height" value="1754" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Study/DL_from_Scratch/4-02_Loss_Function.py" />
+        <option value="$PROJECT_DIR$/../Study/DL_from_Scratch/4-03_Differentials.py" />
+        <option value="$PROJECT_DIR$/../Study/DL_from_Scratch/3-02_Activation_Function.py" />
+        <option value="$PROJECT_DIR$/../Study/DL_from_Scratch/3-03_Multidimensional_Array.py" />
+        <option value="$PROJECT_DIR$/../Study/DL_from_Scratch/4-02-3_Mini_Batch.py" />
+        <option value="$PROJECT_DIR$/../Reinforcement/code_self/03/environment.py" />
+        <option value="$PROJECT_DIR$/../Reinforcement/code_self/03/policy_iteration.py" />
+        <option value="$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/1-grid-world/1-policy-iteration/policy_iteration.py" />
+        <option value="$PROJECT_DIR$/../Study/DL_from_Scratch/assignment.py" />
+        <option value="$PROJECT_DIR$/../Study/DL_from_Scratch/train_neuralnet.py" />
+        <option value="$PROJECT_DIR$/../Study/DL_from_Scratch/multilayer.py" />
+      </list>
+    </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1323" />
+    <option name="y" value="38" />
+    <option name="width" value="1946" />
+    <option name="height" value="2106" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Codeit_lecture_note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codeit_lecture_note" type="462c0819:PsiDirectoryNode" />
+              <item name="deep_learning_module" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Codeit_lecture_note" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Codeit_lecture_note" type="462c0819:PsiDirectoryNode" />
-              <item name="08_VIsualizing_and_Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="deep_learning_module" type="462c0819:PsiDirectoryNode" />
+              <item name="deep_layer_network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codeit_lecture_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codeit_lecture_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="code_book_git" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codeit_lecture_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="code_book_git" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codeit_lecture_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+              <item name="DL_from_Scratch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Study/DL_from_Scratch" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\1_pha\PycharmProjects\Study\DL_from_Scratch" />
+      <recent name="C:\Users\1_pha\PycharmProjects\Reinforcement\code_self\03" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,6 +219,149 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.policy_iteration">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Codeit_lecture_note" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cartpole_dqn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Reinforcement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/2-cartpole/1-dqn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/2-cartpole/1-dqn/cartpole_dqn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="play_a3c_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Reinforcement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/3-atari/1-breakout" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/3-atari/1-breakout/play_a3c_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="play_dqn_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Reinforcement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/3-atari/1-breakout" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/3-atari/1-breakout/play_dqn_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="policy_iteration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Reinforcement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/1-grid-world/1-policy-iteration" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/1-grid-world/1-policy-iteration/policy_iteration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reinforce_agent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Reinforcement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/1-grid-world/7-reinforce" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/1-grid-world/7-reinforce/reinforce_agent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.policy_iteration" />
+        <item itemvalue="Python.cartpole_dqn" />
+        <item itemvalue="Python.play_dqn_model" />
+        <item itemvalue="Python.play_a3c_model" />
+        <item itemvalue="Python.reinforce_agent" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -101,22 +374,27 @@
       <updated>1562058965514</updated>
       <workItem from="1562058967573" duration="42000" />
       <workItem from="1562059263827" duration="1265000" />
-      <workItem from="1562060555481" duration="2607000" />
+      <workItem from="1562060555481" duration="3235000" />
+      <workItem from="1562081041582" duration="23000" />
+      <workItem from="1562117641729" duration="6667000" />
+      <workItem from="1562215455280" duration="6111000" />
+      <workItem from="1562251201910" duration="7678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3914000" />
+    <option name="totallyTimeSpent" value="25021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2208" height="1208" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10744186" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.105581395" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32992566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -125,21 +403,157 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32992566" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32899627" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.32976744" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49930653" weight="0.3688372" />
       <window_info anchor="right" id="Database" order="4" weight="0.32976744" />
+      <window_info anchor="right" x="0" y="0" width="502" height="1008" id="Documentation" order="5" sideWeight="0.5006935" side_tool="true" weight="0.32976744" />
+      <window_info anchor="right" id="Python Console" order="6" side_tool="true" weight="0.42697674" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Codeit_lecture_note$4_02_Loss_Function.coverage" NAME="4-02_Loss_Function Coverage Results" MODIFIED="1562118390830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study/DL_from_Scratch" />
+    <SUITE FILE_PATH="coverage/Codeit_lecture_note$4_03_Differentials.coverage" NAME="4-03_Differentials Coverage Results" MODIFIED="1562119704633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study/DL_from_Scratch" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/deep-learning-from-scratch-master/ch04/train_neuralnet.py" />
+    <entry file="file://$USER_HOME$/Downloads/deep-learning-from-scratch-master/ch04/two_layer_net.py" />
+    <entry file="file://$USER_HOME$/Downloads/deep-learning-from-scratch-master/ch04/gradient_simplenet.py" />
     <entry file="file://$PROJECT_DIR$/08_VIsualizing_and_Graph/Quiz.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/DL_from_Scratch/4-02_Loss_Function.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/DL_from_Scratch/4-02-3_Mini_Batch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/DL_from_Scratch/4-03_Differentials.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/DL_from_Scratch/3-02_Activation_Function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/DL_from_Scratch/3-04_Three_Layer_Net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/1-grid-world/1-policy-iteration/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="230" lean-forward="true" selection-start-line="230" selection-end-line="230" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/1-grid-world/2-value-iteration/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Reinforcement/code_self/03/policy_iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="66" lean-forward="true" selection-start-line="26" selection-start-column="66" selection-end-line="26" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Reinforcement/code_self/03/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="203" column="26" selection-start-line="203" selection-start-column="26" selection-end-line="203" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/DL_from_Scratch/assignment.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Reinforcement/reinforcement-learning-kr-master/1-grid-world/1-policy-iteration/policy_iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/code_book_git/ch04/train_neuralnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/code_book_git/common/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="45" selection-start-line="45" selection-end-line="55" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/DL_from_Scratch/train_neuralnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/code_book_git/ch04/two_layer_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/DL_from_Scratch/multilayer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="22" column="95" lean-forward="true" selection-start-line="22" selection-start-column="95" selection-end-line="22" selection-end-column="95" />
+          <folding>
+            <element signature="e#40#67#0" />
+            <element signature="e#105#385#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

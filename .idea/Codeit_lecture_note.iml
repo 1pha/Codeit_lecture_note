@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.7 (pathenv)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Study_UOS" />
+    <orderEntry type="module" module-name="Reinforcement" />
+    <orderEntry type="module" module-name="deep_learning_module" />
   </component>
 </module>

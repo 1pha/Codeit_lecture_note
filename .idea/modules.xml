@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Codeit_lecture_note.iml" filepath="$PROJECT_DIR$/.idea/Codeit_lecture_note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Reinforcement/.idea/Reinforcement.iml" filepath="$PROJECT_DIR$/../Reinforcement/.idea/Reinforcement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Study/.idea/Study_UOS.iml" filepath="$PROJECT_DIR$/../Study/.idea/Study_UOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deep_learning_module/.idea/deep_learning_module.iml" filepath="$PROJECT_DIR$/../deep_learning_module/.idea/deep_learning_module.iml" />
     </modules>
   </component>
 </project>
